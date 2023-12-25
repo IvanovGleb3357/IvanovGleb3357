@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking at a new job in Data Analytics / Data Science<br>
+🔭 I’m looking for a new job in Data Analytics / Data Science<br>
 
 
 # 💻 Tech Stack:
