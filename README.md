@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working as a Data Engineer / Analytics Engineer at Sber, building regulatory reporting systems for Central Bank of Russia and Rosfinmonitoring
-👨‍🏫 Mentor for 10+ junior analysts, author of an intensive lecture course for aspiring Data Analysts (16 successful cohorts)
+👨‍🏫 Mentor for 10+ junior analysts, author of an intensive lecture course for aspiring Data Analysts (16 successful starts)
 📊 Passionate about optimizing ETL pipelines, data quality, and helping businesses make data-driven decisions
 
 # 📄 Education:
