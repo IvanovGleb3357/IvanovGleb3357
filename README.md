@@ -11,6 +11,7 @@
 - BSc, Peter the Great St. Petersburg Polytechnic University — Automation of technological processes, 2022
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54]
 https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
 https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
